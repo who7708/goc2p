@@ -8,3 +8,5 @@ _obj
 *.di
 *.callgrind
 .DS_Store
+
+.idea
